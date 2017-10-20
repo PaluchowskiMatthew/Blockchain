@@ -1,0 +1,10 @@
+/Users/mateusz/Google Drive/EPFL/Semester III/Financial Applications Of Blockchains And Distributed Ledgers/Code/BitcoinApp/bin/Debug/netcoreapp2.0/BitcoinApp.deps.json
+/Users/mateusz/Google Drive/EPFL/Semester III/Financial Applications Of Blockchains And Distributed Ledgers/Code/BitcoinApp/bin/Debug/netcoreapp2.0/BitcoinApp.runtimeconfig.json
+/Users/mateusz/Google Drive/EPFL/Semester III/Financial Applications Of Blockchains And Distributed Ledgers/Code/BitcoinApp/bin/Debug/netcoreapp2.0/BitcoinApp.runtimeconfig.dev.json
+/Users/mateusz/Google Drive/EPFL/Semester III/Financial Applications Of Blockchains And Distributed Ledgers/Code/BitcoinApp/bin/Debug/netcoreapp2.0/BitcoinApp.dll
+/Users/mateusz/Google Drive/EPFL/Semester III/Financial Applications Of Blockchains And Distributed Ledgers/Code/BitcoinApp/bin/Debug/netcoreapp2.0/BitcoinApp.pdb
+/Users/mateusz/Google Drive/EPFL/Semester III/Financial Applications Of Blockchains And Distributed Ledgers/Code/BitcoinApp/obj/Debug/netcoreapp2.0/BitcoinApp.csproj.CoreCompileInputs.cache
+/Users/mateusz/Google Drive/EPFL/Semester III/Financial Applications Of Blockchains And Distributed Ledgers/Code/BitcoinApp/obj/Debug/netcoreapp2.0/BitcoinApp.AssemblyInfoInputs.cache
+/Users/mateusz/Google Drive/EPFL/Semester III/Financial Applications Of Blockchains And Distributed Ledgers/Code/BitcoinApp/obj/Debug/netcoreapp2.0/BitcoinApp.AssemblyInfo.cs
+/Users/mateusz/Google Drive/EPFL/Semester III/Financial Applications Of Blockchains And Distributed Ledgers/Code/BitcoinApp/obj/Debug/netcoreapp2.0/BitcoinApp.dll
+/Users/mateusz/Google Drive/EPFL/Semester III/Financial Applications Of Blockchains And Distributed Ledgers/Code/BitcoinApp/obj/Debug/netcoreapp2.0/BitcoinApp.pdb
